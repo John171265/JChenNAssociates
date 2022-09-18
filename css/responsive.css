@@ -8,9 +8,7 @@
         padding: 0px 20px;
     }
 
-    .logo{
-        display: none;
-    }
+   
     .text-bg span {
         font-size: 41px;
     }
@@ -24,9 +22,7 @@
         padding: 0px 11px;
     }
 
-    .logo{
-        display: none;
-    }
+   
     .text-bg h1 {
         font-size: 56px;
         line-height: 66px;
@@ -51,9 +47,7 @@
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 0px 9px;
     }
-    .logo{
-        display: none;
-    }
+  
     .banner_main {
         min-height: 705px;
     }
@@ -99,9 +93,7 @@
         line-height: 40px;
         padding-bottom: 25px;
     }
-    .logo{
-        display: none;
-    }
+  
     #banner1 .carousel-inner {
         padding-right: 0;
     }
